@@ -12,7 +12,6 @@ const DUMMY_USERS = {
   '3': User('3',
       'batman',
       'batman@emial.com',
-      'https://cdn1.iconfinder.com/data/icons/people-avatars-23/24/people_avatar_head_comic_batman_bat_man-512.png'
-  ),
+      'https://cdn1.iconfinder.com/data/icons/people-avatars-23/24/people_avatar_head_comic_batman_bat_man-512.png'),
 
 };
