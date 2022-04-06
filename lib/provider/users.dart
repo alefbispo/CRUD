@@ -32,7 +32,7 @@ class Users with ChangeNotifier {
         (_) => User(
           user.id,
           user.name,
-          user.emial,
+          user.email,
           user.avatarUrl,
         ),
       );
@@ -43,7 +43,7 @@ class Users with ChangeNotifier {
         () => User(
           id,
           user.name,
-          user.emial,
+          user.email,
           user.avatarUrl,
         ),
       );
